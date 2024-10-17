@@ -57,7 +57,7 @@ Once you make your text file and write whatever you want, it's time to actually 
 ```
 git remote add <remote_name> <remote_link>
 // A common remote name is "origin", so your command might look something like
-git remote add origin https://github.com/LPranavP/tutorial.git
+git remote add origin https://github.com/NickFalletta29/FCA_bootcamp.git
 ```
 
 You can verify if you successfully added the remote by using the following command.
